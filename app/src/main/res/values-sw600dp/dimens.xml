@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="card_height">200dp</dimen>
+    <dimen name="text_margin">18dp</dimen>
+    <dimen name="detail_backdrop_height">320dp</dimen>
+
+    <integer name="grid_columns">2</integer>
+    <dimen name="detail_width">@dimen/match_parent</dimen>
+    
+    <integer name="list_weight">4</integer>
+    <integer name="details_weight">5</integer>
+</resources>

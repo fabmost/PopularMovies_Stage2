@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="card_height">277dp</dimen>
+    <dimen name="text_margin">22dp</dimen>
+    <dimen name="detail_backdrop_height">320dp</dimen>
+    <integer name="grid_columns">3</integer>
+
+    <dimen name="detail_width">500dp</dimen>
+</resources>

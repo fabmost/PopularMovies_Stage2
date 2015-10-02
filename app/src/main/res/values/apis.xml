@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Add you themovieDP Api key here -->
+    <string name="movieDBAPI"></string>
+
+</resources>

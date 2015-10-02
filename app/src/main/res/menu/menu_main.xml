@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:yourapp="http://schemas.android.com/apk/res-auto" >
+
+    <item android:id="@+id/item_popular"
+        android:title="@string/action_popular"
+        yourapp:showAsAction="never" />
+
+    <item android:id="@+id/item_rating"
+        android:title="@string/action_rated"
+        yourapp:showAsAction="never" />
+
+    <item android:id="@+id/item_favorites"
+        android:title="@string/action_favorites"
+        yourapp:showAsAction="never" />
+</menu>
